@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main()
 {
 int phy,chem,math,eng,hindi,total,percentage,failCount,graceMarks;
